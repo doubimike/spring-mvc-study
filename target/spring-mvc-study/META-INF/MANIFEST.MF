@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Created-By: IntelliJ IDEA
 Built-By: qingchun
-Build-Jdk: version 1.8.0_281
+Build-Jdk: Amazon Corretto version 11.0.10
 Implementation-Title: spring-mvc-study Maven Webapp
 Implementation-Version: 1.0-SNAPSHOT
 Implementation-Vendor-Id: org.example
